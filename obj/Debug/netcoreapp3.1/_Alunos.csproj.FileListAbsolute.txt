@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\bin\Debug\netcoreapp3.1\_Alunos.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\bin\Debug\netcoreapp3.1\_Alunos.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\bin\Debug\netcoreapp3.1\_Alunos.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\bin\Debug\netcoreapp3.1\_Alunos.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\bin\Debug\netcoreapp3.1\_Alunos.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\bin\Debug\netcoreapp3.1\_Alunos.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\obj\Debug\netcoreapp3.1\_Alunos.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\obj\Debug\netcoreapp3.1\_Alunos.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\obj\Debug\netcoreapp3.1\_Alunos.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\obj\Debug\netcoreapp3.1\_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\obj\Debug\netcoreapp3.1\_Alunos.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\obj\Debug\netcoreapp3.1\_Alunos.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Alunos\obj\Debug\netcoreapp3.1\_Alunos.genruntimeconfig.cache
