@@ -6,6 +6,17 @@ namespace _Alunos
     {
         static void Main(string[] args)
         {   
+
+                /* 
+                Faça um programa que receba o nome e quatro notas de 10 alunso e armazene essas notas em bertores. Calcule e mostre:
+                
+                A. A média do aluno - Função
+                B. A quantidade de Aprivados (Média >= 7)
+                C. A quantidade de Reprovados (Média < 7)
+                D. A média geral dos 10 Alunos. 
+                */
+
+
                 int qa = 10;
                 
                 string [] nome = new string [qa];
